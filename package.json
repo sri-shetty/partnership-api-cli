@@ -1,0 +1,25 @@
+{
+  "name": "partnershipcli",
+  "version": "1.0.0",
+  "description": "CLI tool to perform Partnership API calls",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joanthan Gee <jonathangee1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "csv-parse": "^4.8.7",
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security",
+    "jsonfile": "^5.0.0",
+    "promise": "^8.1.0",
+    "q": "^1.5.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
